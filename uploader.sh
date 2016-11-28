@@ -8,7 +8,7 @@
 
 if [ ! -d "./KindleEar" ]
 then
-    git clone https://github.com/cdhigh/KindleEar.git
+    git clone https://github.com/gfeej0821/KindleEar.git
 fi
 
 cd KindleEar
